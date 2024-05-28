@@ -1,0 +1,54 @@
+.car{
+    width:300px;
+    height:500px;
+   margin: 20px;
+
+
+}
+.img{
+    width:120px;
+    height:180px;
+    margin: 4px;
+    justify-content: center;
+    text-align: center;
+}
+
+.box {
+    width:345px;
+    height:550px;
+    
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid #3ebde0;
+    /* flex: 1; */
+  
+   
+}
+
+.im{
+    width:50%;
+    height:50%;
+    margin: 4px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.dream{
+    text-align: center;
+    justify-content: center;
+    border: 2px solid  rgb(30, 17, 178);
+    color:black;
+    width:100%
+    
+
+}
+
+.playercard
+{
+
+    width:100%;
+    border:2px solid  rgb(30, 17, 178);
+
+    background-color: cadetblue;
+}
